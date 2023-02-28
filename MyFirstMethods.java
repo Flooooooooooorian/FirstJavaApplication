@@ -12,7 +12,7 @@ public class MyFirstMethods {
 
         System.out.println(name.toLowerCase());
 
-        System.out.println(isLongerThan20("ThisIsDefinetlyLongEnough"));
+        System.out.println(isLongerThan20("ThisIsDefinetlEnough"));
         System.out.println(containsFancy("YeahFancy"));
 
         System.out.println(longerThan20AndContainsFancy("ThisStringContainsTheWordfancy"));
