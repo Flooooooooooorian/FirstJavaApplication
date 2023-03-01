@@ -65,4 +65,11 @@ public class MyFirstJavaApplication {
         return value * 2;
     }
 
+    public static int add(int value1, int value2) {
+        return value1 + value2;
+    }
+
+    public static boolean isBiggerThanAHundret(int value) {
+        return value > 100;
+    }
 }
