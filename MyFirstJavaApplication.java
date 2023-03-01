@@ -39,11 +39,12 @@ public class MyFirstJavaApplication {
         String teilnehmerB = "Hozan";
         String teilnehmerC = "Abdul";
 
-        String[] teilnehmer = new String[3];
+        String[] teilnehmer = new String[4];
 
         teilnehmer[0] = "Lukas";
         teilnehmer[1] = "Hozan";
         teilnehmer[2] = "Abdul";
+        teilnehmer[3] = "Sara";
 
         System.out.println(teilnehmer[0]);
         System.out.println(Arrays.toString(teilnehmer));
